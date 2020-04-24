@@ -9,6 +9,10 @@ The sample code provides a simple way for you to drop in your sticker art and bu
 
 ## View  
 
+    ![Config](https://github.com/JoaovMiranda/developers-stickers/blob/master/imgs/#1.png)  
+    ![Config](https://github.com/JoaovMiranda/developers-stickers/blob/master/imgs/#2.png)  
+    ![Config](https://github.com/JoaovMiranda/developers-stickers/blob/master/imgs/#3.png)  
+
 ## About  
  * Learn more about acceptable use of  services of [WhatsApp](https://www.whatsapp.com/legal/#terms-of-service) :link:   
  * **NOT DISTRIBUTED**  
