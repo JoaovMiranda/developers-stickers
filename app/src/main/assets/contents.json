@@ -1,0 +1,334 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "database",
+      "name": "Database ",
+      "publisher": "João Miranda",
+      "tray_image_file": "database.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "aaaaaa.webp"
+        },
+        {
+          "image_file": "azure.webp"
+        },
+        {
+          "image_file": "mariadb.webp"
+        },
+        {
+          "image_file": "mongodb.webp"
+        },
+        {
+          "image_file": "mysql.webp"
+        },
+        {
+          "image_file": "plsql.webp"
+        },
+        {
+          "image_file": "postgress.webp"
+        },
+        {
+          "image_file": "sas.webp"
+        },
+        {
+          "image_file": "sqlite.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "general",
+      "name": "General ",
+      "publisher": "João Miranda",
+      "tray_image_file": "android.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "android.webp"
+        },
+        {
+          "image_file": "apache.webp"
+        },
+        {
+          "image_file": "apachetomcat.webp"
+        },
+        {
+          "image_file": "arduino.webp"
+        },
+        {
+          "image_file": "docker.webp"
+        },
+        {
+          "image_file": "gradle.webp"
+        },
+        {
+          "image_file": "gradle_2.webp"
+        },
+        {
+          "image_file": "groovy.webp"
+        },
+        {
+          "image_file": "gulp.webp"
+        },
+        {
+          "image_file": "haxe.webp"
+        },
+        {
+          "image_file": "matlab.webp"
+        },
+        {
+          "image_file": "nginx.webp"
+        },
+        {
+          "image_file": "nim.webp"
+        },
+        {
+          "image_file": "npm.webp"
+        },
+        {
+          "image_file": "npm_2.webp"
+        },
+        {
+          "image_file": "raspberry.webp"
+        },
+        {
+          "image_file": "scrach_2.webp"
+        },
+        {
+          "image_file": "vim.webp"
+        },
+        {
+          "image_file": "visualfoxpro.webp"
+        },
+        {
+          "image_file": "vue.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "versioning",
+      "name": "Git",
+      "publisher": "João Miranda",
+      "tray_image_file": "git.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bitbucket.webp"
+        },
+        {
+          "image_file": "git.webp"
+        },
+        {
+          "image_file": "github.webp"
+        },
+        {
+          "image_file": "gitkracken.webp"
+        },
+        {
+          "image_file": "gitlab.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "legends",
+      "name": "Legacy",
+      "publisher": "João Miranda",
+      "tray_image_file": "delphi.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ada.webp"
+        },
+        {
+          "image_file": "delphi.webp"
+        },
+        {
+          "image_file": "fortran.webp"
+        },
+        {
+          "image_file": "lisp.webp"
+        },
+        {
+          "image_file": "pearl.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "languages",
+      "name": "Languages",
+      "publisher": "João Miranda",
+      "tray_image_file": "golang.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "c.webp"
+        },
+        
+        {
+          "image_file": "d.webp"
+        },
+        {
+          "image_file": "dart.webp"
+        },
+        {
+          "image_file": "elixir.webp"
+        },
+        {
+          "image_file": "fsharp.webp"
+        },
+        {
+          "image_file": "golang.webp"
+        },
+        {
+          "image_file": "golang_2.webp"
+        },
+        {
+          "image_file": "java.webp"
+        },
+        {
+          "image_file": "java_2.webp"
+        },
+        {
+          "image_file": "julia.webp"
+        },
+        {
+          "image_file": "kotlin.webp"
+        },
+        {
+          "image_file": "lua.webp"
+        },
+        {
+          "image_file": "ocaml.webp"
+        },
+        {
+          "image_file": "phyton.webp"
+        },
+        {
+          "image_file": "postscript.webp"
+        },
+        {
+          "image_file": "r.webp"
+        },
+        {
+          "image_file": "ruby.webp"
+        },
+        {
+          "image_file": "rust.webp"
+        },
+        {
+          "image_file": "sapabap.webp"
+        },
+        {
+          "image_file": "scala.webp"
+        },
+        {
+          "image_file": "swift.webp"
+        },
+        {
+          "image_file": "vbnet.webp"
+        },
+        {
+          "image_file": "visualbasic.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "web",
+      "name": "Web Development",
+      "publisher": "João Miranda",
+      "tray_image_file": "www.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "angular.webp"
+        },
+        {
+          "image_file": "angular_2.webp"
+        },
+        {
+          "image_file": "bootstrap.webp"
+        },
+        {
+          "image_file": "css.webp"
+        },
+        {
+          "image_file": "css_2.webp"
+        },
+        {
+          "image_file": "flutter.webp"
+        },
+        {
+          "image_file": "html5.webp"
+        },
+        {
+          "image_file": "javascript_2.webp"
+        },
+        {
+          "image_file": "jquery.webp"
+        },
+        {
+          "image_file": "json.webp"
+        },
+        {
+          "image_file": "node.webp"
+        },
+        {
+          "image_file": "nodejs.webp"
+        },
+        {
+          "image_file": "php.webp"
+        },
+        {
+          "image_file": "php_2.webp"
+        },
+        {
+          "image_file": "react.webp"
+        },
+        {
+          "image_file": "sass.webp"
+        },
+        {
+          "image_file": "ts.webp"
+        },
+        {
+          "image_file": "typescript_2.webp"
+        },
+        {
+          "image_file": "xml.webp"
+        }
+      ]
+    }
+  ]
+}

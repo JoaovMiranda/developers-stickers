@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/transparent</color>
+    <color name="colorPrimaryDark">#FF0F</color>
+    <color name="colorAccent">#CC23FF</color>
+    <color name="inactiveAddButtonColor">#222222</color>
+    <color name="infoPageBackgroundColor">#BEBEBB</color>
+    <color name="actionBarArrowColor">@color/colorAccent</color>
+</resources>
